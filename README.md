@@ -1,6 +1,6 @@
 # Topological-features-with-clustering-algorithms
 
-The coursework on Topological Point Cloud Clustering method. The work investigated compatibility of topological features with KMeans, Deep Embedding Clustering, Contrastive Clustering algorithms on MNIST and CIFAR10 datasets.
+The coursework on Topological Point Cloud Clustering method [[1]](#1). The work investigated compatibility of topological features [[2]](#2) with KMeans, Deep Embedding Clustering [[3]](#3), Contrastive Clustering [[4]](#4) algorithms on MNIST and CIFAR10 datasets.
 
 Obtained results:
 <table>
@@ -108,3 +108,21 @@ Obtained results:
     </tr>
   </tbody>
 </table>
+
+
+## References
+<a id="1">[1]</a> 
+Vincent P. Grande, Michael T. Schaub. “Topological Point Cloud Clustering”. В: 40th
+International Conference on Machine Learning (2023).
+
+<a id="2">[2]</a> 
+Vincent P. Grande и Michael T. Schaub. “Point-Level Topological Representation Learning
+on Point Clouds”. В: arXiv (2025).
+
+<a id="3">[3]</a> 
+Ali Farhadi Junyuan Xie Ross Girshick. “Unsupervised Deep Embedding for Clustering
+Analysis”. В: International Conference on Machine Learning (2016).
+
+<a id="4">[4]</a> 
+Yunfan Li, Peng Hu, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou и Xi Peng. “Contrastive
+Clustering”. В: arXiv (2020).
