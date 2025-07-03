@@ -1,6 +1,6 @@
 # Topological-features-with-clustering-algorithms
 
-The coursework on Topological Point Cloud Clustering method (Grande et al., [2023](https://arxiv.org/abs/2303.16716)). The work investigated compatibility of topological features (Grande et al., [2025](https://arxiv.org/abs/2406.02300)) with KMeans, Deep Embedding Clustering (Xie et al., [2016](https://arxiv.org/abs/1511.06335)), Contrastive Clustering  (Le et al., [2020](https://arxiv.org/abs/2009.09687)) algorithms on MNIST and CIFAR10 datasets.
+The coursework on Topological Point Cloud Clustering method (Grande et al., [2023](https://arxiv.org/abs/2303.16716)). The work investigated compatibility of topological features (Grande et al., [2025](https://arxiv.org/abs/2406.02300)) with KMeans, Deep Embedding Clustering (Xie et al., [2016](https://arxiv.org/abs/1511.06335)), Contrastive Clustering  (Le et al., [2020](https://arxiv.org/abs/2009.09687)) algorithms on [MNIST](https://docs.pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST) and [CIFAR10](https://docs.pytorch.org/vision/stable/generated/torchvision.datasets.CIFAR10.html#torchvision.datasets.CIFAR10) datasets.
 
 Obtained results:
 <table>
