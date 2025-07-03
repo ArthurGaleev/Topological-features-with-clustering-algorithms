@@ -108,3 +108,6 @@ Obtained results:
     </tr>
   </tbody>
 </table>
+
+## Dependencies
+The notebook with experiments uses [`Python`](https://www.python.org) and the Python packages [`NumPy`](https://numpy.org), [`SciPy`](https://scipy.org), [`Pandas`](https://pandas.pydata.org), [`PyTorch`](https://pytorch.org), [`Scikit-learn`](https://scikit-learn.org/stable/), [`Gudhi`](https://gudhi.inria.fr), [`Matplotlib`](https://matplotlib.org), and [`Plotly`](https://plotly.com).
